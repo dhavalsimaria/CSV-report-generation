@@ -1,0 +1,1 @@
+SELECT   *    FROM     p1i005.l0basis_verkoopprijzen vprl where begindatum = '?' and einddatum = '?'
